@@ -1,0 +1,22 @@
+header {
+    background-color: blue;
+    color: white;
+    }
+
+
+    .cabecalho-imagem{
+     
+        width: 20%;
+}
+
+    .cabecalho{
+      
+        background-color: lightpink;
+        color: black;
+        display: flex;
+
+    }
+
+   .cabecalho-lista-item{
+
+    }
