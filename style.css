@@ -1,5 +1,10 @@
-header {
-    background-color: blue;
+ body{
+
+    font-family: 'poppins',sans-serif;
+ }
+ 
+ header {
+    background-color: palevioletred;
     color: white;
     }
 
@@ -14,9 +19,12 @@ header {
         background-color: lightpink;
         color: black;
         display: flex;
+        justify-content: space-around;
 
     }
 
    .cabecalho-lista-item{
+
+    display: inline-block;
 
     }
